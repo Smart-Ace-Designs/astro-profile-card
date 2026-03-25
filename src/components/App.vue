@@ -9,7 +9,7 @@ import AppProfileCard from "@/components/AppProfileCard.vue";
     <AppProfileCard
       profileimg="/profile.jpg"
       background="/beach.jpg"
-      name="Smart Ace"
+      username="Smart Ace"
       subheading="ScriptoForms Maintainer"
       followers="3"
       following="10"
