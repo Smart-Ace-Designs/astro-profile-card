@@ -14,9 +14,9 @@
   "dependencies": {
     "@astrojs/vue": "7.1.6",
     "@tailwindcss/vite": "^4.3.5",
-    "astro": "7.4.12",
+    "astro": "7.4.13",
     "tailwindcss": "^4.3.5",
-    "vue": "^3.5.45"
+    "vue": "^3.5.46"
   },
   "devDependencies": {
     "prettier": "^3.10.1",
